@@ -1,4 +1,4 @@
-package test;
+package testVehicles;
 
 import transportnieSredstva.Samolet;
 import transportnieSredstva.Vertolet;
@@ -7,7 +7,7 @@ import transportnieSredstva.Tanker;
 import transportnieSredstva.Gruzovik;
 import transportnieSredstva.Taksi;
 
-public class Main {
+public class testVehicles {
     public static void main(String[] args) {
         Samolet samolet = new Samolet();
         Vertolet vertolet = new Vertolet();
